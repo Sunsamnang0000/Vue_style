@@ -3,7 +3,7 @@
     <button class=btn>my button</button>
     <session>hello</session>
   </div>
-  `<router-view/>
+  <router-view/>
 </template>
 
 <script setup>
